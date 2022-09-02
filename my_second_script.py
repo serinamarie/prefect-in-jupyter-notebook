@@ -21,7 +21,7 @@ def create_game_outcome_message(nbr):
     else:
         print("You lost this round. Better luck next time.")
 
-@flow(name="Determine if winner")
+@flow(name="Feeling Lucky Flow")
 def feeling_lucky():
     """
     This flow will run the get_random_nbr() task and the 
