@@ -7,7 +7,7 @@ from random import randint
 @task(name="Get random number")
 def get_random_nbr():
 
-    return randint(41, 45)
+    return randint(41, 43)
 
 
 @task(name="Determine if player wins")
