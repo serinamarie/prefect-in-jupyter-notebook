@@ -5,7 +5,9 @@ Python 3.7 or greater
 ## Getting Started
 We will demo some of the features of Prefect through Jupyter. To begin, 
 1. Clone the repo with
-`git clone git@github.com:serinamarie/prefect-in-jupyter-notebook.git`. 
+```console
+git clone git@github.com:serinamarie/prefect-in-jupyter-notebook.git
+``` 
 2. Run `cd prefect-in-jupyter-notebook`.
 3. Run `pip install notebook`. 
 4. Once installed, run `jupyter notebook`. This will start the notebook server,
