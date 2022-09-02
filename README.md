@@ -29,5 +29,5 @@ pip install notebook
 jupyter notebook
 ```
 
-5. Click `getting-started-with-prefect.ipynb`.
+5. Click `getting-started-with-prefect.ipynb`!
 
