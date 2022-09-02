@@ -1,5 +1,7 @@
 # Running your first flow with Prefect, Jupyter-style!
 
+## Prerequisites
+Python 3.7 or greater
 ## Getting Started
 We will demo some of the features of Prefect through Jupyter. To begin, 
 1. Clone the repo with
@@ -8,3 +10,4 @@ We will demo some of the features of Prefect through Jupyter. To begin,
 3. Run `pip install notebook`. 
 4. Once installed, run `jupyter notebook`. This will start the notebook server,
 where you will see a variety of files. Feel free to take a look around if you're interested. To begin, click `getting-started-with-prefect.ipynb`.
+
