@@ -29,8 +29,7 @@ pip install notebook
 jupyter notebook
 ```
 
-5. Look at `my_first_script.py` and `my_second_script.py`. We will be running these 
-scripts in the notebook. 
+5. Look at `prefect_ml.py` and `titanic.csv`. We will be using these in the demo.
 
 6. Do not skip step 5. When you're ready, click `getting-started-with-prefect.ipynb`! 
 
