@@ -29,5 +29,8 @@ pip install notebook
 jupyter notebook
 ```
 
-5. Click `getting-started-with-prefect.ipynb`!
+5. Look at `my_first_script.py` and `my_second_script.py`. We will be running these 
+scripts in the notebook. 
+
+6. Do not skip step 5. When you're ready, click `getting-started-with-prefect.ipynb`! 
 
